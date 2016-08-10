@@ -10,7 +10,7 @@ div {
     margin: 25px;
 }
 
-h1{
+h1, h3 {
     text-align:center;
     color:#efeCa5;
     font-size:300%;
