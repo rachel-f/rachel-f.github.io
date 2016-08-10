@@ -1,17 +1,43 @@
+body {
+    background-image: url("spaceback.jpg");
 
+}
 
-h1, h2, body {
-	background-color:#0c1a27;
+div {
+    width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+}
+
+h1{
     text-align:center;
-    color:#e6ccff;
+    color:#efeCa5;
     font-size:300%;
+    font-family:Verdana;
+}
+ h2, body {
+    text-align:center;
+    color:#8B99EA;
+    font-size:190%;
+    font-family:Verdana;
+}
+
+h3{
+    text-align:center;
+    color:#89D06A;
+    font-size:190%;
     font-family:Verdana;
 }
 
 p {
     text-align:center;
-    color:#e6ccff;
+    color:#efa5a5;
     font-size:100%;
     font-family:Verdana;
 }
 
+img {
+   border-style:solid;
+   border-color: #6AD0C5;
+}
