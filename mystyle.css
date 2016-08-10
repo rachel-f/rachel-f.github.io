@@ -1,9 +1,7 @@
 
-body {
-	background-color:#0c1a27;
-}
 
-h1, h2, {
+h1, h2, body {
+	background-color:#0c1a27;
     text-align:center;
     color:#e6ccff;
     font-size:300%;
