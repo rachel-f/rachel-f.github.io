@@ -11,30 +11,42 @@ div {
     margin: 25px;
 }
 
+/* YELLOW TEXT */
 h1{
     text-align:center;
     color:#efeCa5;
-    font-size:300%;
-    font-family:Verdana;
-}
- h2, h4, h5, body {
-    text-align:center;
-    color:#8B99EA;
-    font-size:190%;
+    font-size:120px;
     font-family:Verdana;
 }
 
-h3, h7, h6{
+/* GREEN FOR THE TOP TEXT */
+h3{
     text-align:center;
     color:#89D06A;
-    font-size:190%;
+    font-size:85px;
+    font-family:Verdana;
+}
+
+/* PURPLE TEXT AS TITLE*/
+ h2, h4, h5, h6, body {
+    text-align:center;
+    color:#8B99EA;
+    font-size:70px;
+    font-family:Verdana;
+}
+
+/* GREEN SUBTEXT */
+ h7, h8 {
+    text-align:center;
+    color:#89D06A;
+    font-size:45px;
     font-family:Verdana;
 }
 
 p {
     text-align:center;
     color:#efa5a5;
-    font-size:100%;
+    font-size:25px;
     font-family:Verdana;
 }
 
