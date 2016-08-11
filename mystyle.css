@@ -1,5 +1,6 @@
 body {
     background-image: url("spaceback.jpg");
+    text-align:center;
 
 }
 
@@ -10,20 +11,20 @@ div {
     margin: 25px;
 }
 
-h1, h3 {
+h1{
     text-align:center;
     color:#efeCa5;
     font-size:300%;
     font-family:Verdana;
 }
- h2, body {
+ h2, h4, h5, body {
     text-align:center;
     color:#8B99EA;
     font-size:190%;
     font-family:Verdana;
 }
 
-h3{
+h3, h6 {
     text-align:center;
     color:#89D06A;
     font-size:190%;
