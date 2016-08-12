@@ -1,6 +1,6 @@
 
  
 		function myFunction() {
-			alert("Do that and you just might die.");
+			alert("Do That And You Just Might Die.");
 		}
 		
